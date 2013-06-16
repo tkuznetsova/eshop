@@ -4,10 +4,7 @@
 /web-app/WEB-INF
 
 # IDE support files
-/.classpath
 /.launch
-/.project
-/.settings
 /*.launch
 /*.tmproj
 /ivy*
