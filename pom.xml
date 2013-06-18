@@ -134,18 +134,7 @@
 						</goals>
 					  </pluginExecutionFilter>
 					  <action>
-						<execute>
-							 <configuration>
-								<artifactItems>
-									<artifactItem>
-										<groupId>org.mortbay.jetty</groupId>
-										<artifactId>jetty-runner</artifactId>
-										<version>7.5.4.v20111024</version>
-										<destFileName>jetty-runner.jar</destFileName>
-									</artifactItem>
-								</artifactItems>
-							</configuration>
-						</execute>
+						<execute/>
 					  </action>
 					</pluginExecution>
 				  </pluginExecutions>
